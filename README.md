@@ -15,17 +15,17 @@ MVVM Architecture, IOS 15.0, device: iphone.
 
 ### Real-time chat
 
-<img align="center" src="Screenshots/gif2.gif" height="500">
+<img align="center" src="Screenshots/gif2.gif" height="400">
 
 
 ### Registration
 
-<img align="center" src="Screenshots/gif1.gif" height="500">
+<img align="center" src="Screenshots/gif1.gif" height="400">
 
 
 ### Profile
 
-<img align="center" src="Screenshots/gif3.gif" height="500">
+<img align="center" src="Screenshots/gif3.gif" height="400">
 
 
 
