@@ -57,10 +57,5 @@ MVVM Architecture, IOS 15.0, device: iphone.
 </div>
 
 
-## Author
-* [Bogdan Zykov](https://github.com/BogdanZyk)
-
 ## License
-
- Copyright 2022 Bogdan Zykov.
  Licensed under MIT License: https://opensource.org/licenses/MIT
